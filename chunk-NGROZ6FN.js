@@ -1,0 +1,2 @@
+import{a as s}from"./chunk-ZVUFH2FK.js";import{Ga as r,La as i,R as n,ya as a}from"./chunk-CXHKGTN4.js";import"./chunk-35PI25VP.js";var d=(()=>{let e=class e{};e.\u0275fac=function(o){return new(o||e)},e.\u0275cmp=n({type:e,selectors:[["app-auth-layout"]],standalone:!0,features:[i],decls:2,vars:0,template:function(o,p){o&1&&(a(0,"router-outlet"),r(1,`>
+`))},dependencies:[s]});let t=e;return t})();export{d as default};
